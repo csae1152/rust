@@ -22,10 +22,10 @@ turn back now and forget you ever saw this book. It is not necessary. However
 if you intend to write unsafe code -- or just want to dig into the guts of the
 language -- this book contains invaluable information.
 
-Unlike [The Book][trpl] we will be assuming considerable prior knowledge. In
+Unlike The Book we will be assuming considerable prior knowledge. In
 particular, you should be comfortable with basic systems programming and Rust.
-If you don't feel comfortable with these topics, you should consider [reading
-The Book][trpl] first. Though we will not be assuming that you have, and will
+If you don't feel comfortable with these topics, you should consider reading
+The Book first. Though we will not be assuming that you have, and will
 take care to occasionally give a refresher on the basics where appropriate. You
 can skip straight to this book if you want; just know that we won't be
 explaining everything from the ground up.
